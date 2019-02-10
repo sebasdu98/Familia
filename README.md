@@ -22,7 +22,7 @@
 * Nos retornara las personas que cumplan las condiciones que A sea hermano de C y C sea padre de B
 9. primode(A,B):
 * Nos retornara las personas que cumplan las condicioes  que C sea padre de A y C sea tio de B
-10.sobrino(A,B):
+10. sobrino(A,B):
 * Nos retornara las personas que cumplan la condicion que B sea tio de A
-11.nietode(A,B):
+11. nietode(A,B):
 * Nos retornara las personas que cumplan la condicion que B sea abuelo de A
